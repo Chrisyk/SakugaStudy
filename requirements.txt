@@ -1,0 +1,4 @@
+opencv-python
+pytube
+keyboard
+playsound
