@@ -1,7 +1,10 @@
 # SakugaStudy
 Python <= 3.12.0  
 ## Description  
-A tool to help animators easily study popular media. The program features a built-in timer, and the ability to jump between a custom a amount of frames.  
+A tool to help animators easily study popular media. 
+### Features
+- Built-in timer
+- Custom frame jumps back and forward
 ## Usage
 1. download dependencies
 2. run main.py
