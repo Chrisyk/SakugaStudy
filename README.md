@@ -4,7 +4,7 @@ Python <= 3.12.0
 A tool to help animators easily study popular media. 
 ### Features
 - Built-in timer
-- Custom frame jumps back and forward
+- Custom frame jumps
 ## Usage
 1. download dependencies
 2. run main.py
